@@ -75,3 +75,7 @@ comments: true  #默认不开启评论
 ## azure（来自微软的免费服务器）
 
 [https://azure.microsoft.com/zh-cn/free/](https://azure.microsoft.com/zh-cn/free/)
+## buypass(长达180天的免费ssl证书，但国内无法访问)
+[https://www.buypass.com/](https://www.buypass.com/)
+## etsencrypt（著名SSL证书提供商，SSL证书有效期90天）
+[https://letsencrypt.org/zh-cn/](https://letsencrypt.org/zh-cn/)
